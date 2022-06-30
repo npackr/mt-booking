@@ -1,6 +1,8 @@
 # mt-booking
 All things you need for a simple booking site
 
+Live demo: https://npackr.github.io/mt-booking
+
 ## Getting Started
 * Clone it and run on a HTTP server (ex. Go Live in VS Code) for see the demo website using MT Booking
 * You can create your own app using functions in `main.js` or just editing the demo project with your own code to get start
